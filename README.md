@@ -1,6 +1,6 @@
 # Zaplanuj_Jedzonko
 
-Application for creating formulas and food plans 
+Application for creating formulas and food plans.
 
 ### Technologies used:
 
